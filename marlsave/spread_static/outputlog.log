@@ -1,0 +1,20 @@
+INFO: Updates 0 | Num timesteps 4096 | Time 0:00:05.330641 | FPS 768
+Mean reward [-2.4185 -2.4185 -2.4185 -2.4185 -2.4185]
+Entropy -0.0795 Value loss 0.7793 Policy loss -0.0002
+
+INFO: ===========================================================================================
+INFO: ***************Info*************
+INFO: savedir/home/wushiguang/wu/TII_revised/MCCG/marlsave/spread_static
+INFO: cuda_num2
+INFO: env_name:simple_spread  ,  size: 1.0 , masking is True
+INFO: version:  coverage_reward -1 + 1*connection_reward
+INFO: ********************************
+INFO: Evaluation 0 | Mean per-step reward -54.63
+INFO: Num success 0/100 | Episode Length 50.00
+INFO: unconnections 0/100
+INFO: coverage_rate 39.200000/100
+INFO: coverage_rate_sum 37.664000/100
+INFO: Final_dists_mean [0.6215 0.6235 0.6097 0.5966 0.6016 0.5816 0.5765 0.5993 0.5674 0.5656]
+INFO: Final_dists_var [0.0818 0.0869 0.0953 0.0725 0.0926 0.0633 0.0813 0.0996 0.0724 0.0796]
+INFO: ===========================================================================================
+
